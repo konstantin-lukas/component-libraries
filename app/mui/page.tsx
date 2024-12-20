@@ -114,7 +114,8 @@ export default function Page() {
                     {genderInput}
                     {durationOfStayInput}
                     {submitButtons}
-                    <p>Material UI is nice. Only downside is that the documentation on theming is misleading.</p>
+                    <p>Material UI is nice. Only downside is that the documentation on theming is misleading. Also,
+                    the data picker allows to use different date libraries.</p>
                 </form>
             </LocalizationProvider>
         </ThemeProvider>
