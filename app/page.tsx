@@ -12,6 +12,9 @@ export default function Home() {
                 <li>
                     <Link href="/mui" className="text-indigo-600 ml-4">Material UI</Link>
                 </li>
+                <li>
+                    <Link href="/chakra" className="text-indigo-600 ml-4">Chakra UI</Link>
+                </li>
             </ul>
         </>
     );
