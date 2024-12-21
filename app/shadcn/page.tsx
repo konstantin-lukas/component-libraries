@@ -18,7 +18,7 @@ import {
 import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 
-export function DatePickerDemo({children}: {children: React.ReactNode}) {
+function DatePickerDemo({children}: {children: React.ReactNode}) {
     const [date, setDate] = useState<Date>()
 
     return (
