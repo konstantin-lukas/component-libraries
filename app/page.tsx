@@ -21,6 +21,9 @@ export default function Home() {
                 <li>
                     <Link href="/kolibri" className="text-indigo-600 ml-4">KoliBri</Link>
                 </li>
+                <li>
+                    <Link href="/nextui" className="text-indigo-600 ml-4">NextUI</Link>
+                </li>
             </ul>
         </>
     );
