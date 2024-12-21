@@ -15,6 +15,12 @@ export default function Home() {
                 <li>
                     <Link href="/chakra" className="text-indigo-600 ml-4">Chakra UI</Link>
                 </li>
+                <li>
+                    <Link href="/mantine" className="text-indigo-600 ml-4">Mantine</Link>
+                </li>
+                <li>
+                    <Link href="/kolibri" className="text-indigo-600 ml-4">KoliBri</Link>
+                </li>
             </ul>
         </>
     );
