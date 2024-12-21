@@ -58,7 +58,7 @@ export default function Page() {
                     <li>- Really easy to use</li>
                     <li>- Optionally comes with CLI for only installing needed components</li>
                     <li>- Great documentation</li>
-                    <li>- Date picker worked but threw an error because of React 19 changes. Could be resolved by disabling animations. This seems to be because NextUI's dependencies don't support React 19 yet.</li>
+                    <li>- Date picker worked but threw an error because of React 19 changes. Could be resolved by disabling animations. This seems to be because NextUI&#39;s dependencies don&#39;t support React 19 yet.</li>
                 </ul>
             </form>
         </NextUIProvider>
