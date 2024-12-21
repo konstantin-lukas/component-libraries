@@ -24,6 +24,9 @@ export default function Home() {
                 <li>
                     <Link href="/nextui" className="text-indigo-600 ml-4">NextUI</Link>
                 </li>
+                <li>
+                    <Link href="/shadcn" className="text-indigo-600 ml-4">Shadcn UI</Link>
+                </li>
             </ul>
         </>
     );
